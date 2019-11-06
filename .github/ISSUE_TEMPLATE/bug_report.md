@@ -16,9 +16,9 @@ assignees: jwflory, Nolski, whenbellstoll
 
 In order for your bug to be accepted, the following sections must be answered to the best of your ability:
 
-## How to reproduce?
+## Context
 
-<!-- How would someone else experience the issue you are reporting? -->
+<!-- Describe the context of the issue you are seeing. -->
 
 
 ## Expected behavior
@@ -31,8 +31,8 @@ In order for your bug to be accepted, the following sections must be answered to
 <!-- What ACTUALLY happened leading up to the issue? List any steps. -->
 
 
-**Screenshots**:
-<!-- If applicable, add screenshots below to help explain your problem. -->
+**Screenshots & links**:
+<!-- If applicable, add screenshots or links below to help explain your problem. -->
 
 
 # Other details
